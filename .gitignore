@@ -1,0 +1,4 @@
+build/
+yolov5s.engine
+yolov5s.wts
+video/
